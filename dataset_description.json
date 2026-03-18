@@ -1,0 +1,20 @@
+{
+    "Name": "Dataset of neurons and intracranial EEG from human amygdala during aversive dynamic visual stimulation",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "We present an electrophysiological dataset collected from the amygdalae of nine subjects attending a visual dynamic stimulation of emotional aversive content. The subjects were patients affected by epilepsy who underwent preoperative invasive monitoring in the mesial temporal lobe. Subjects were presented with dynamic visual sequences of fearful faces (aversive condition), interleaved with sequences of neutral landscapes (neutral condition).\n\nWe provide simultaneous recordings of intracranial EEG (iEEG) and neuronal spike times and waveforms, and metadata related to the task, subjects, sessions and electrodes in the NIX standard. We technically validated this dataset and provide here the spike sorting quality metrics and the spectra of iEEG signals.\nThis dataset allows the investigation of amygdalar response to dynamic aversive stimuli at multiple spatial scales, from the macroscopic EEG to the neuronal firing in the human brain.",
+    "DatasetType": "raw",
+    "Authors": [
+        "Fedele, Tommaso",
+        "Sarnthein, Johannes "
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
